@@ -8,4 +8,12 @@ var age = prompt("What your age");
  }
 alert("Certified Mobile Application Development")
 
-alert("Pizza")
+alert("Pizza \n Pizz \n Piz \n Pi \n P")
+
+alert("My email address is example@example.com")
+
+alert("I am trying to learn from the Book A smarter \n way to learn JavaScript")
+
+document. write("Yah! I can write HTML content through JavaScript")
+
+alert("▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬")
